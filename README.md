@@ -68,3 +68,14 @@ python3 script.py <email_list_file> <login_url>
 Valid emails found:
 canderson@gmail.com
 ```
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for **educational and ethical security testing purposes only**.
+
+Do **NOT** use this script against any system or application without **explicit permission** from the owner.
+
+The author is **not responsible** for any misuse, damage, or illegal activity resulting from the use of this code.
+
+Use responsibly and always follow applicable laws and regulations.
