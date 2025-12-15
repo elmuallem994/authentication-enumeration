@@ -48,8 +48,7 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/elmuallem994/authentication-enumeration.git
 cd authentication-enumeration
 pip install -r requirements.txt
-
----
+```
 
 
 ## 🚀 Usage
@@ -58,10 +57,8 @@ pip install -r requirements.txt
 python3 script.py <email_list_file> <login_url>
 ```
 
-## 3️⃣  : Example Output
-
-```md
 ## 📌 Example Output
+
 
 ```text
 [INVALID] test1@gmail.com
@@ -70,3 +67,4 @@ python3 script.py <email_list_file> <login_url>
 
 Valid emails found:
 canderson@gmail.com
+```
